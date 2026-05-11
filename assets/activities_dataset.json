@@ -1,0 +1,332 @@
+[
+    {
+        "name": "Quick body movement",
+        "description": "Do light physical movement or stretching for {time} minutes.",
+        "works_for": ["high_energy_morning", "general_free_time"],
+        "tags": ["exercise", "movement", "health"]
+    },
+    {
+        "name": "Gentle stretching",
+        "description": "Stretch your body slowly and mindfully for {time} minutes.",
+        "works_for": ["low_energy_evening", "general_free_time", "calm_night"],
+        "tags": ["exercise", "relax", "movement"]
+    },
+    {
+        "name": "Brisk walk",
+        "description": "Go for a short walk to refresh your body and mind.",
+        "works_for": ["general_free_time"],
+        "tags": ["exercise", "outdoor", "health"]
+    },
+    {
+        "name": "Mental declutter ritual",
+        "description": "Write down everything on your mind, then choose ONE thing for tomorrow.",
+        "works_for": ["low_energy_evening", "calm_night", "general_free_time"],
+        "tags": ["mental", "relax", "reflect"]
+    },
+    {
+        "name": "Breathing reset",
+        "description": "Do slow breathing to calm your nervous system.",
+        "works_for": ["low_energy_evening", "tired_afternoon", "calm_night"],
+        "tags": ["relax", "calm", "health"]
+    },
+    {
+        "name": "Comfort productivity",
+        "description": "Finish a small, comforting task completely.",
+        "works_for": ["low_energy_evening", "tired_afternoon", "general_free_time"],
+        "tags": ["productivity", "low-effort"]
+    },
+    {
+        "name": "One uncomfortable win",
+        "description": "Work on the task you've been avoiding for {time} minutes.",
+        "works_for": ["high_energy_morning"],
+        "tags": ["productivity", "challenge", "focus"]
+    },
+    {
+        "name": "Creative burst",
+        "description": "Create freely without editing or judging for {time} minutes.",
+        "works_for": ["high_energy_morning", "general_free_time"],
+        "tags": ["creative", "expression"]
+    },
+    {
+        "name": "Reset & reassess",
+        "description": "Pause, reflect, and decide what would help next.",
+        "works_for": ["general_free_time"],
+        "tags": ["reflect", "mental"]
+    },
+    {
+        "name": "Journaling session",
+        "description": "Write about your day or thoughts for {time} minutes.",
+        "works_for": ["low_energy_evening", "calm_night", "general_free_time"],
+        "tags": ["reflect", "mental", "creative"]
+    },
+    {
+        "name": "Listen to music",
+        "description": "Play your favorite playlist and relax for {time} minutes.",
+        "works_for": ["general_free_time", "low_energy_evening"],
+        "tags": ["relax", "entertainment"]
+    },
+    {
+        "name": "Hydration break",
+        "description": "Drink water and take a mindful break.",
+        "works_for": ["general_free_time", "tired_afternoon"],
+        "tags": ["health", "relax"]
+    },
+    {
+        "name": "Quick meditation",
+        "description": "Meditate or focus on breath for {time} minutes.",
+        "works_for": ["calm_night", "low_energy_evening"],
+        "tags": ["relax", "mental", "health"]
+    },
+    {
+        "name": "Call a friend",
+        "description": "Reach out to a friend for a short chat.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "relax"]
+    },
+    {
+        "name": "Organize workspace",
+        "description": "Tidy up your desk or digital space.",
+        "works_for": ["general_free_time", "high_energy_morning"],
+        "tags": ["productivity", "organization"]
+    },
+    {
+        "name": "Yoga pose",
+        "description": "Try a simple yoga pose like downward dog for {time} minutes.",
+        "works_for": ["high_energy_morning", "general_free_time"],
+        "tags": ["exercise", "physical", "health", "relax"]
+    },
+    {
+        "name": "Reading prompt",
+        "description": "Read a page from a book or article that interests you.",
+        "works_for": ["general_free_time", "low_energy_evening"],
+        "tags": ["mental", "relax", "creative"]
+    },
+    {
+        "name": "Quick game",
+        "description": "Play a short mobile game or puzzle for {time} minutes.",
+        "works_for": ["general_free_time"],
+        "tags": ["entertainment", "mental", "relax"]
+    },
+    {
+        "name": "Gratitude list",
+        "description": "Write down 3 things you're grateful for.",
+        "works_for": ["low_energy_evening", "calm_night"],
+        "tags": ["mental", "reflect", "positive"]
+    },
+    {
+        "name": "Dance break",
+        "description": "Dance to your favorite song for {time} minutes.",
+        "works_for": ["high_energy_morning", "general_free_time"],
+        "tags": ["physical", "entertainment", "fun"]
+    },
+    {
+        "name": "Mindful eating",
+        "description": "Eat a snack mindfully, focusing on taste and texture.",
+        "works_for": ["general_free_time"],
+        "tags": ["health", "relax", "mental"]
+    },
+    {
+        "name": "Sketch something",
+        "description": "Draw or sketch anything for {time} minutes.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "expression", "relax"]
+    },
+    {
+        "name": "Positive affirmations",
+        "description": "Repeat positive statements to yourself.",
+        "works_for": ["low_energy_evening", "calm_night"],
+        "tags": ["mental", "positive", "health"]
+    },
+    {
+        "name": "Stretch routine",
+        "description": "Follow a short stretching routine.",
+        "works_for": ["general_free_time", "tired_afternoon"],
+        "tags": ["physical", "health", "relax"]
+    },
+    {
+        "name": "Listen to podcast",
+        "description": "Listen to a short podcast episode.",
+        "works_for": ["general_free_time", "commute_mode"],
+        "tags": ["mental", "entertainment", "learning"]
+    },
+    {
+        "name": "Deep breathing",
+        "description": "Practice deep breathing exercises.",
+        "works_for": ["tired_afternoon", "calm_night"],
+        "tags": ["relax", "health", "mental"]
+    },
+    {
+        "name": "Quick workout",
+        "description": "Do bodyweight exercises like squats or push-ups.",
+        "works_for": ["high_energy_morning"],
+        "tags": ["physical", "exercise", "health"]
+    },
+    {
+        "name": "Write a poem",
+        "description": "Write a short poem or haiku.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "expression", "mental"]
+    },
+    {
+        "name": "Nature observation",
+        "description": "Observe and appreciate nature around you.",
+        "works_for": ["general_free_time"],
+        "tags": ["relax", "mental", "outdoor"]
+    },
+    {
+        "name": "Solve a riddle",
+        "description": "Try to solve a fun riddle or brain teaser.",
+        "works_for": ["general_free_time"],
+        "tags": ["mental", "entertainment", "challenge"]
+    },
+    {
+        "name": "Compliment someone",
+        "description": "Give a genuine compliment to someone.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "positive", "mental"]
+    },
+    {
+        "name": "Plan your day",
+        "description": "Outline your goals for the day.",
+        "works_for": ["high_energy_morning"],
+        "tags": ["productivity", "organization", "mental"]
+    },
+    {
+        "name": "Watch a funny video",
+        "description": "Watch a short comedy clip.",
+        "works_for": ["general_free_time"],
+        "tags": ["entertainment", "relax", "mental"]
+    },
+    {
+        "name": "Herbal tea break",
+        "description": "Brew and sip herbal tea mindfully.",
+        "works_for": ["low_energy_evening"],
+        "tags": ["relax", "health", "mental"]
+    },
+    {
+        "name": "Learn a new word",
+        "description": "Look up and learn the meaning of a new word.",
+        "works_for": ["general_free_time"],
+        "tags": ["learning", "mental", "positive"]
+    },
+    {
+        "name": "Sing a song",
+        "description": "Sing your favorite song out loud.",
+        "works_for": ["general_free_time"],
+        "tags": ["entertainment", "fun", "relax"]
+    },
+    {
+        "name": "Volunteer online",
+        "description": "Do a small online volunteering task.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "positive", "mental"]
+    },
+    {
+        "name": "Coloring",
+        "description": "Color in a mandala or simple design.",
+        "works_for": ["low_energy_evening"],
+        "tags": ["creative", "relax", "mental"]
+    },
+    {
+        "name": "Power nap",
+        "description": "Take a short power nap if possible.",
+        "works_for": ["tired_afternoon"],
+        "tags": ["health", "relax", "physical"]
+    },
+    {
+        "name": "Cook a simple meal",
+        "description": "Prepare a quick, healthy snack.",
+        "works_for": ["general_free_time"],
+        "tags": ["productivity", "health", "creative"]
+    },
+    {
+        "name": "Write a letter",
+        "description": "Write a short letter to a friend or family.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "creative", "mental"]
+    },
+    {
+        "name": "Stargazing",
+        "description": "Look at the stars and relax.",
+        "works_for": ["calm_night"],
+        "tags": ["relax", "mental", "outdoor"]
+    },
+    {
+        "name": "Puzzle solving",
+        "description": "Work on a jigsaw or crossword puzzle.",
+        "works_for": ["general_free_time"],
+        "tags": ["mental", "challenge", "entertainment"]
+    },
+    {
+        "name": "Gardening",
+        "description": "Tend to plants or a small garden.",
+        "works_for": ["general_free_time"],
+        "tags": ["physical", "relax", "outdoor"]
+    },
+    {
+        "name": "Photography",
+        "description": "Take photos of interesting things around you.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "expression", "relax"]
+    },
+    {
+        "name": "Board game",
+        "description": "Play a quick board game if available.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "entertainment", "mental"]
+    },
+    {
+        "name": "Knitting or crafting",
+        "description": "Do a small crafting activity.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "relax", "physical"]
+    },
+    {
+        "name": "Bike ride",
+        "description": "Go for a short bike ride.",
+        "works_for": ["high_energy_morning"],
+        "tags": ["physical", "exercise", "outdoor"]
+    },
+    {
+        "name": "Read poetry",
+        "description": "Read a poem and reflect on it.",
+        "works_for": ["low_energy_evening"],
+        "tags": ["mental", "creative", "relax"]
+    },
+    {
+        "name": "Window shopping",
+        "description": "Browse online or in-store without buying.",
+        "works_for": ["general_free_time"],
+        "tags": ["entertainment", "relax", "mental"]
+    },
+    {
+        "name": "DIY project",
+        "description": "Start a small DIY task.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "productivity", "physical"]
+    },
+    {
+        "name": "Pet care",
+        "description": "Spend time caring for a pet.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "relax", "physical"]
+    },
+    {
+        "name": "Language practice",
+        "description": "Practice a foreign language app.",
+        "works_for": ["general_free_time"],
+        "tags": ["learning", "mental", "positive"]
+    },
+    {
+        "name": "Instrument practice",
+        "description": "Play a musical instrument.",
+        "works_for": ["general_free_time"],
+        "tags": ["creative", "relax", "physical"]
+    },
+    {
+        "name": "Volunteer locally",
+        "description": "Do a small local volunteering task.",
+        "works_for": ["general_free_time"],
+        "tags": ["social", "positive", "physical"]
+    }
+]

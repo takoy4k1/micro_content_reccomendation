@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Read a Book",
+        "description": "Read a chapter of a book you are currently enjoying.",
+        "works_for": ["calm_night", "low_energy_evening", "general_free_time"],
+        "tags": ["mental", "relax"]
+    },
+    {
+        "name": "Quick Walk",
+        "description": "Take a quick {time}-minute walk outside to get some fresh air.",
+        "works_for": ["high_energy_morning", "tired_afternoon", "general_free_time"],
+        "tags": ["physical", "relax"]
+    },
+    {
+        "name": "Listen to a Podcast",
+        "description": "Put on a podcast while you rest or do some light chores.",
+        "works_for": ["commute_mode", "low_energy_evening", "general_free_time"],
+        "tags": ["mental", "relax"]
+    },
+    {
+        "name": "Quick Stretch",
+        "description": "Do some light stretching for {time} minutes to loosen up your muscles.",
+        "works_for": ["tired_afternoon", "high_energy_morning", "general_free_time"],
+        "tags": ["physical", "relax"]
+    },
+    {
+        "name": "Journaling",
+        "description": "Write down your thoughts or plan your day.",
+        "works_for": ["calm_night", "high_energy_morning", "general_free_time"],
+        "tags": ["mental", "creative", "relax"]
+    },
+    {
+        "name": "Organize Workspace",
+        "description": "Spend {time} minutes organizing your desk and tidying up.",
+        "works_for": ["high_energy_morning", "general_free_time"],
+        "tags": ["productivity", "physical"]
+    },
+    {
+        "name": "Call a Friend",
+        "description": "Catch up with a friend or family member.",
+        "works_for": ["commute_mode", "general_free_time"],
+        "tags": ["social", "relax"]
+    }
+]
